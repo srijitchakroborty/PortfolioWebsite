@@ -1,0 +1,1 @@
+Use VS code or any other code editor and use Live server to run the 'index.html' file.
